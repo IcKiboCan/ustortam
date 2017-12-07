@@ -1,0 +1,544 @@
+body {
+  font-size: 16px;
+  text-align: center;
+  color: #c6d6f1;
+  background-color: #020222;
+  font-family: 'Oxygen', sans-serif;
+}
+
+/** HEADER **/
+#header-nav {
+  background-color: #c6d6f1;
+  border-radius: 0;
+  border: 0;
+}
+
+#logo-img {
+  background: url('../images/ege-university-logo.png') no-repeat;
+  width: 150px;
+  height: 150px;
+  margin: 10px 15px 10px 0;
+}
+
+.navbar-brand {
+  padding-top: 25px;
+}
+.navbar-brand h1 { /* Univercity name */
+  font-family: 'Lora', serif;
+  color: #3a3156;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+  
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+.navbar-brand p { /* Department name */
+  font-family: 'Lora', serif;
+  color: #3a3156;
+  text-transform: uppercase;
+  font-size: 1.0em;
+  margin-top: 15px;
+  font-weight: bold;
+  margin-left: 1%;
+}
+
+
+#nav-list {
+  margin-top: 10px;
+}
+#nav-list a {
+  color: #3a3156;
+  text-align: center;
+}
+#nav-list a:hover {
+  background: #E7E7E7;
+}
+#nav-list a span {
+  font-size: 1.8em;
+}
+
+
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #3a3156;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
+/* END HEADER */
+
+/* FOOTER */
+.panel-footer {
+  margin-top: 30px;
+  padding-top: 35px;
+  padding-bottom: 30px;
+  background-color: #222;
+  border-top: 0;
+  
+}
+.panel-footer div.row {
+  margin-bottom: 35px;
+
+}
+
+#helpfullinks, #address ,#communication , #socialMedia  {
+  line-height: 2;
+  width: 20%;
+}
+#helpfullinks > span, #address > span, #communication > span, #socialMedia > span {
+  font-size: 1.3em;
+}
+#helpfulLinks {
+  margin-top: 10px;
+}
+/* END FOOTER */
+
+
+
+/* HOME PAGE */
+.container .jumbotron {
+  box-shadow: 0 0 50px #203ede;
+  border: 2px solid #203ede;
+}
+
+#education-tile, #stuff-tile, #map-tile {
+  height: 250px;
+  width: 100%;
+  margin-bottom: 15px;
+  position: relative;
+  border: 2px solid #203ede;
+  overflow: hidden;
+}
+#education-tile:hover, #stuff-tile:hover, #map-tile:hover {
+  box-shadow: 0 1px 5px 1px #203ede;
+}
+#education-tile {
+  background: url('../images/education.jpg') no-repeat;
+  background-position: center;
+}
+#stuff-tile {
+  background: url('../images/stuff.png') no-repeat;
+  background-position: center;
+}
+#education-tile span, #stuff-tile span, #map-tile span {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  text-align: center;
+  font-size: 1.6em;
+  text-transform: uppercase;
+  background-color: #000;
+  color: #fff;
+  opacity: .8;
+
+}
+/* END HOME PAGE */
+
+/*Education Page*/
+  #licence-tile:hover, #graduate-tile:hover,{
+    box-shadow: 0 2px 10px 2px #cccccc;
+  }
+  #licence-tile span, #graduate-tile span {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    text-align: center;
+    font-size: 1.6em;
+    text-transform: uppercase;
+    background-color: #000;
+    color: #fff;
+    opacity: .8;
+
+  }
+  #licence-tile , #graduate-tile {
+    height: 450px;
+    width: 100%;
+    margin-bottom: 30px;
+    position: relative;
+    border: 1px solid #203ede;
+    overflow: hidden;
+  }
+  #licence-tile {
+  background: url('../images/licence.jpg') no-repeat;
+  background-position: center;
+  }
+  #graduate-tile {
+    background: url('../images/graduate.jpg') no-repeat;
+    background-position: center;
+  }
+  /*End Education Page*/
+/*Personal Page*/
+  #professor-tile:hover, #academic-tile:hover,#tecnic-tile:hover{
+    box-shadow: 0 1px 5px 1px #cccccc;
+  }
+  #professor-tile span, #academic-tile span,#tecnic-tile span {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    text-align: center;
+    font-size: 1.6em;
+    text-transform: uppercase;
+    background-color: #000;
+    color: #fff;
+    opacity: .8;
+
+  }
+  #professor-tile , #academic-tile ,#tecnic-tile  {
+    height: 450px;
+    width: 100%;
+    margin-top: 15px;
+    position: relative;
+    border: 2px solid #203ede;
+    overflow: hidden;
+  }
+  #professor-tile {
+  background: url('../images/professor.jpg') no-repeat;
+  background-position: center;
+  }
+  #academic-tile {
+    background: url('../images/academic.jpg') no-repeat;
+    background-position: center;
+  }
+  #tecnic-tile {
+    background: url('../images/tecnic.jpg') no-repeat;
+    background-position: center;
+  }
+/*End Personel Page*/
+
+/*Class Page*/
+  #autumn-first-class-tile:hover, #autumn-second-class-tile:hover, #autumn-third-class-tile:hover, #autumn-fourth-class-tile:hover{
+      box-shadow: 0 2px 10px 2px #cccccc;
+  }
+  #autumn-first-class-tile span, #autumn-second-class-tile span, #autumn-third-class-tile span, #autumn-fourth-class-tile span {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    text-align: center;
+    font-size: 1.6em;
+    text-transform: uppercase;
+    background-color: #000;
+    color: #fff;
+    opacity: .8;
+
+  }
+  #autumn-first-class-tile , #autumn-second-class-tile , #autumn-third-class-tile , #autumn-fourth-class-tile {
+    height: 450px;
+    width: 100%;
+    margin-bottom: 30px;
+    position: relative;
+    border: 1px solid #203ede;
+    overflow: hidden;
+  }
+  #autumn-first-class-tile {
+  background: url('../images/one.png') no-repeat;
+  background-position: center;
+  }
+  #autumn-second-class-tile {
+  background: url('../images/two.png') no-repeat;
+  background-position: center;
+  }
+  #autumn-third-class-tile {
+  background: url('../images/three.png') no-repeat;
+  background-position: center;
+  }
+  #autumn-fourth-class-tile {
+  background: url('../images/four.png') no-repeat;
+  background-position: center;
+  }
+
+  #summer-first-class-tile:hover, #summer-second-class-tile:hover, #summer-third-class-tile:hover, #summer-fourth-class-tile:hover{
+      box-shadow: 0 2px 10px 2px #cccccc;
+  }
+  #summer-first-class-tile span, #summer-second-class-tile span, #summer-third-class-tile span, #summer-fourth-class-tile span {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    text-align: center;
+    font-size: 1.6em;
+    text-transform: uppercase;
+    background-color: #000;
+    color: #fff;
+    opacity: .8;
+
+  }
+  #summer-first-class-tile , #summer-second-class-tile , #summer-third-class-tile , #summer-fourth-class-tile {
+    height: 450px;
+    width: 100%;
+    margin-bottom: 30px;
+    position: relative;
+    border: 1px solid #203ede;
+    overflow: hidden;
+  }
+  #summer-first-class-tile {
+  background: url('../images/one.png') no-repeat;
+  background-position: center;
+  }
+  #summer-second-class-tile {
+  background: url('../images/two.png') no-repeat;
+  background-position: center;
+  }
+  #summer-third-class-tile {
+  background: url('../images/three.png') no-repeat;
+  background-position: center;
+  }
+  #summer-fourth-class-tile {
+  background: url('../images/four.png') no-repeat;
+  background-position: center;
+  }
+/*End Class Page*/
+
+/*Licence Term Page*/
+  #licence-autumn-tile:hover, #licence-summer-tile:hover,{
+    box-shadow: 0 2px 10px 2px #cccccc;
+  }
+  #licence-autumn-tile span, #licence-summer-tile span {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    text-align: center;
+    font-size: 1.6em;
+    text-transform: uppercase;
+    background-color: #000;
+    color: #fff;
+    opacity: .8;
+
+  }
+  #licence-autumn-tile , #licence-summer-tile {
+    height: 450px;
+    width: 100%;
+    margin-bottom: 30px;
+    position: relative;
+    border: 1px solid #203ede;
+    overflow: hidden;
+  }
+  #licence-autumn-tile {
+  background: url('../images/güz.jpg') no-repeat;
+  background-position: center;
+  }
+  #licence-summer-tile {
+    background: url('../images/yaz.jpg') no-repeat;
+    background-position: center;
+  }
+/*End Licence Term Page*/
+/*Personal*/
+  #personal :hover {
+    box-shadow: 0 2px 10px 2px #cccccc;
+  }
+  #personal  {
+    height: 100px;
+    width: 100%;
+    margin-bottom: 30px;
+    position: relative;
+    border: 1px solid #203ede;
+    overflow: hidden;
+  }
+  #personal span  {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    text-align: top;
+    font-size: 1.6em;
+    text-transform: uppercase;
+    background-color: #000;
+    color: #fff;
+    opacity: .8;
+  }
+/*End Personal*/
+/*Graduate Term Page*/
+  #graduate-autumn-tile:hover, #graduate-summer-tile:hover,{
+    box-shadow: 0 2px 10px 2px #cccccc;
+  }
+  #graduate-autumn-tile span, #graduate-summer-tile span {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    text-align: center;
+    font-size: 1.6em;
+    text-transform: uppercase;
+    background-color: #000;
+    color: #fff;
+    opacity: .8;
+
+  }
+  #graduate-autumn-tile , #graduate-summer-tile  {
+    height: 450px;
+    width: 100%;
+    margin-bottom: 30px;
+    position: relative;
+    border: 1px solid #203ede;
+    overflow: hidden;
+  }
+  #graduate-autumn-tile {
+  background: url('../images/güz.jpg') no-repeat;
+  background-position: center;
+  }
+  #graduate-summer-tile {
+    background: url('../images/yaz.jpg') no-repeat;
+    background-position: center;
+  }
+/*End Graduate Term Page*/
+
+
+
+
+
+/********** Large devices only **********/
+@media (min-width: 1200px) {
+  .container .jumbotron {
+    background: url('../images/computerEngineering_1200.jpg') no-repeat;
+    height: 675px;
+
+  }
+}
+
+/********** Medium devices only **********/
+@media (min-width: 992px) and (max-width: 1199px) {
+  /* Header */
+  #logo-img {
+    background: url('../images/ege-university-logo-medium.png') no-repeat;
+    width: 100px;
+    height: 100px;
+    margin: 5px 5px 5px 0;
+  }
+  /* End Header */
+
+  /* Home Page */
+  .container .jumbotron {
+    background: url('../images/computerEngineering_992.jpg') no-repeat;
+    height: 558px;
+  }
+  /* End Home Page */
+}
+
+/********** Small devices only **********/
+@media (min-width: 768px) and (max-width: 991px) {
+  /* Home Page */
+  .container .jumbotron {
+    background: url('../images/computerEngineering_768.jpg') no-repeat;
+    height: 432px;
+  }
+  /* End Home Page */
+}
+
+/********** Extra small devices only **********/
+@media (max-width: 767px) {
+  /* Header */
+  .navbar-brand {
+    padding-top: 10px;
+    height: 80px;
+  }
+  .navbar-brand h1 { /* Univercity Name */
+    padding-top: 10px;
+    font-size: 5vw; /* 1vw = 1% of viewport width */
+  }
+  .navbar-brand p { 
+    font-size: .6em;
+    margin-top: 12px;
+  }
+  .navbar-brand p img { 
+    height: 20px;
+  }
+
+  #collapsable-nav a {
+    font-size: 1.2em;
+  }
+  #collapsable-nav a span {
+    font-size: 1em;
+    margin-right: 5px;
+  }
+
+  #call-btn > a {
+    font-size: 1.5em;
+    display: block;
+    margin: 0 20px;
+    padding: 10px;
+    border: 2px solid #fff;
+    background-color: #f6b319;
+    color: #951c49;
+  }
+  
+  /* End Header */
+
+  /* Footer */
+  .panel-footer section {
+    margin-bottom: 30px;
+    text-align: center;
+  }
+  .panel-footer section:nth-child(3) {
+    margin-bottom: 0; /* margin already exists on the whole row */
+  }
+  .panel-footer section hr {
+    width: 50%;
+  }
+  #address ,#communication , #socialMedia,#helpfulLinks  {
+  line-height: 2;
+  width: 100%;
+  }
+  /* End Footer */
+
+  /* Home Page */
+  .container .jumbotron {
+    margin-top: 30px;
+    padding: 0;
+  }
+  #education-tile, #stuff-tile {
+    width: 360px;
+    margin: 0 auto 15px;
+  }
+  
+
+  .menu-item-photo {
+    margin-right: auto;
+  }
+  .menu-item-tile .menu-item-price {
+    text-align: center;
+  }
+  .menu-item-description {
+    text-align: center;;
+  }
+}
+
+
+/********** Super extra small devices Only :-) (e.g., iPhone 4) **********/
+@media (max-width: 479px) {
+  /* Header */
+  .navbar-brand h1 { /* Restaurant name */
+    padding-top: 5px;
+    font-size: 6vw;
+  }
+  /* End Header */
+  
+  /* Home page */
+  #education-tile, #stuff-tile {
+    width: 280px;
+    margin: 0 auto 15px;
+  }
+
+  .col-xxs-12 {
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+    float: left;
+    width: 100%;
+  }
+  /*End Home Page*/
+}
+
+
+

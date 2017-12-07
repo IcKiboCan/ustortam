@@ -1,0 +1,105 @@
+﻿{
+          "classes":[
+            {
+              "program":[
+                {
+                  "date":"Pazartesi",
+                  "name":"Matematik-2"
+                },
+                {
+                  "date":"Salı",
+                  "name":"ALGORİTMA VE PROGRAMLAMA-I"
+                },
+				{
+                  "date":"Salı",
+                  "name":"Fizik-2"
+                },
+				{
+                  "date":"Çarşamba",
+                  "name":"Ayrık Yapılar"
+                },
+				{
+                  "date":"Perşembe",
+                  "name":"Introduction to Computer Science "
+                }
+              ]
+            },
+            {
+              "program":[
+                {
+                  "date":"Pazartesi",
+                  "name":"Veri Yapıları"
+                },
+                {
+                  "date":"Salı",
+                  "name":"Nümerik Analiz"
+                },
+                {
+                  "date":"Çarşamba",
+                  "name":"AUTOMATA THEORY"
+                },
+				{
+                  "date":"Perşembe",
+                  "name":"Digital Computer Design"
+                },
+				{
+                  "date":"Cuma",
+                  "name":"Programming Languages"
+                }
+              ]
+            },
+            {
+              "program":[
+                {
+                  "date":"Cuma",
+                  "name":"Microcontroller Based System Design"
+                },
+                {
+                  "date":"Salı",
+                  "name":"Web Tabanlı Windows Programlama"
+                },
+                {
+                  "date":"Pazartesi",
+                  "name":"Analysis of Algorithms"
+                },
+				{
+                  "date":"Perşembe",
+                  "name":"Ontoloji Mühendisliği"
+                },
+				{
+                  "date":"Çarşamba",
+                  "name":"Sistem Programlama "
+                },
+				{
+                  "date":"Çarşamba",
+                  "name":"Bilgisayar Grafikleri"
+                }
+              ]
+            },
+            {
+              "program":[
+                {
+                  "date":"Pazartesi",
+                  "name":"Yöneylem Araştırması "
+                },
+                {
+                  "date":"Salı",
+                  "name":"Öğretim Bilgi Sistemler"
+                },
+                {
+                  "date":"Çarşamba",
+                  "name":"Computer Architecture"
+                },
+				{
+                  "date":"Perşembe",
+                  "name":"İşlemsel Zeka"
+                },
+				{
+                  "date":"Cuma",
+                  "name":"Ekonomi"
+                }
+              ]
+            }
+          ]
+        }
+     

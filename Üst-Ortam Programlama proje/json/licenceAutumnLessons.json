@@ -1,0 +1,123 @@
+﻿{  
+   "classes":[  
+      {  
+         "program":[  
+            {  
+               "date":"Pazartesi",
+               "name":"Matematik-1"
+            },
+            {  
+               "date":"Salı",
+               "name":"Türk Dili-1"
+            },
+            {  
+               "date":"Çarşamba",
+               "name":"ALGORİTMA VE PROGRAMLAMA-1"
+            },
+			{  
+               "date":"Perşembe",
+               "name":"Atatürk İlkeleri ve İnkılap Tarihi-1"
+            },
+			{  
+               "date":"Salı",
+               "name":"Fizik-1"
+            },
+			{  
+               "date":"Cuma",
+               "name":"Üniversite Yaşamına Geçiş"
+            },
+			{  
+               "date":"Perşembe",
+               "name":"Sözlü ve Yazılı İletişim"
+            }
+         ]
+      },
+      {  
+         "program":[  
+            {  
+               "date":"Pazartesi",
+               "name":"Veri Yapıları"
+            },
+            {  
+               "date":"Salı",
+               "name":"Nümerik Analiz"
+            },
+            {  
+               "date":"Çarşamba",
+               "name":"AUTOMATA THEORY"
+            },
+			{  
+               "date":"Perşembe",
+               "name":"Mantık Devreleri Tasarımı"
+            },
+			{  
+               "date":"Cuma",
+               "name":"Electrical Circuits "
+            },
+			{  
+               "date":"Salı",
+               "name":"Olasılık ve İstatistik"
+            },
+			{  
+               "date":"Çarşamba",
+               "name":"Diferansiyel Denklemler"
+            }
+			
+			 
+         ]
+      },
+      {  
+         "program":[  
+            {  
+               "date":"Pazartesi",
+               "name":"BİLGİSAYAR AĞLARI"
+            },
+            {  
+               "date":"Salı",
+               "name":"DATABASE MANAGEMENT"
+            },
+            {  
+               "date":"Çarşamba",
+               "name":"İŞLETİM SİSTEMLERİ"
+            },
+			{  
+               "date":"Perşembe",
+               "name":"Üst Ortam Programlama"
+            },
+			{  
+               "date":"Perşembe",
+               "name":"Windows Programlama"
+            },
+			{  
+               "date":"Cuma",
+               "name":"Elektrik Devreleri"
+            }
+         ]
+      },
+      {  
+         "program":[  
+            {  
+               "date":"Pazartesi",
+               "name":"İŞ SAĞLIĞI VE GÜVENLİĞİ "
+            },
+            {  
+               "date":"Salı",
+               "name":"SOFTWARE ENGINEERING"
+            },
+            {  
+               "date":"Çarşamba",
+               "name":"COMPUTER ARCHITECTURE"
+            },
+			{  
+               "date":"Perşembe",
+               "name":"Temel Bankacılık ve Bilişim Teknolojileri"
+            },
+			{  
+               "date":"Cuma",
+               "name":"Veri Madenciliği"
+            }
+			
+			]
+      }
+   ]
+}

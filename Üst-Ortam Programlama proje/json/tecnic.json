@@ -1,0 +1,29 @@
+﻿{
+"personals":[
+        {
+          "name": "Mehmet KUZU",
+          "tel": "0232 311 53 33",
+          "imageUrl":"http://bilmuh.ege.edu.tr/sites/default/files/bilmuh/personel/no-profile-img.gif"
+        },{
+          "name": "Hayriye UYGUN",
+          "tel":"0232 311 53 33" ,
+          "imageUrl":"http://bilmuh.ege.edu.tr/sites/default/files/bilmuh/personel/idari_teknik_personel/hayriye_uygun.jpg"
+        },{
+          "name": "Okan ÇORBACIOĞLU",
+          "tel": "0232 311 53 33",
+          "imageUrl":"http://bilmuh.ege.edu.tr/sites/default/files/bilmuh/personel/idari_teknik_personel/okan_corbacioglu.png"
+        },{
+          "name": "Beyhan KILIÇ",
+          "tel": "0232 311 20 87",
+          "imageUrl":"http://bilmuh.ege.edu.tr/sites/default/files/bilmuh/personel/no-profile-img.png"
+        },{
+          "name": "Sibel DEMİREL",
+          "tel": "0232 388 72 21",
+          "imageUrl":"http://bilmuh.ege.edu.tr/sites/default/files/bilmuh/personel/no-profile-img.png"
+        },{
+          "name": "Şevket YILDIZ",
+          "tel":" 0232 388 72 21" ,
+          "imageUrl":"http://bilmuh.ege.edu.tr/sites/default/files/bilmuh/personel/no-profile-img.gif"
+        }
+      ]
+}

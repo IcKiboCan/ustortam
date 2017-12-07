@@ -1,0 +1,29 @@
+﻿{
+"personals":[
+        {
+          "name":"Fatmana ŞENTÜRK" ,
+          "tel": "0232 311 53 35",
+          "imageUrl":"http://bilmuh.ege.edu.tr/sites/default/files/bilmuh/personel/arastirma_gorevlileri/fatmana_senturk.jpg"
+        },{
+          "name":"Remzi ÇELEBİ" ,
+          "tel": "0232 311 53 10",
+          "imageUrl":"http://bilmuh.ege.edu.tr/sites/default/files/bilmuh/personel/arastirma_gorevlileri/remzi_celebi.png"
+        },{
+          "name": "Sevcan EMEK",
+          "tel": "0232 311 53 20",
+          "imageUrl":"http://bilmuh.ege.edu.tr/sites/default/files/bilmuh/personel/arastirma_gorevlileri/sevcan_emek.jpg"
+        },{
+          "name":"Erkan YAŞAR" ,
+          "tel": "0232 311 53 10",
+          "imageUrl":"http://bilmuh.ege.edu.tr/sites/default/files/bilmuh/personel/arastirma_gorevlileri/erkan_yasar.jpg"
+        },{
+          "name": "Sinem ÇINAROĞLU",
+          "tel": "0232 311 53 09",
+          "imageUrl":"http://bilmuh.ege.edu.tr/sites/default/files/bilmuh/personel/arastirma_gorevlileri/sinem_oren.jpg"
+        },{
+          "name": "Sema BODUR",
+          "tel": "0232 311 53 09",
+          "imageUrl":"http://bilmuh.ege.edu.tr/sites/default/files/bilmuh/personel/arastirma_gorevlileri/sema_bodur.jpg"
+        }
+      ]
+}

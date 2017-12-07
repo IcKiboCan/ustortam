@@ -1,0 +1,29 @@
+﻿{
+"personals":[
+        {
+          "name": "Oğuz DİKENELLİ",
+          "tel": "0232 388 72 21",
+          "imageUrl":"http://bilmuh.ege.edu.tr/sites/default/files/bilmuh/personel/ogretim_uyeleri/oguz_dikenelli.jpg"
+        },{
+          "name": "Özgü CAN",
+          "tel": "0232 311 53 32",
+          "imageUrl":"http://bilmuh.ege.edu.tr/sites/default/files/bilmuh/personel/ogretim_uyeleri/ozgu_can.jpg"
+        },{
+          "name": "Serdar KORUKOĞLU",
+          "tel":"0232 311 25 86" ,
+          "imageUrl":"http://bilmuh.ege.edu.tr/sites/default/files/bilmuh/personel/ogretim_uyeleri/serdar_korukoglu.jpg"
+        },{
+          "name": "Emine SEZER",
+          "tel": "0232 311 25 95",
+          "imageUrl":"http://bilmuh.ege.edu.tr/sites/default/files/bilmuh/personel/ogretim_uyeleri/emine_sezer.jpg"
+        },{
+          "name": "Levent TOKER",
+          "tel":"0232 311 25 85" ,
+          "imageUrl":"http://bilmuh.ege.edu.tr/sites/default/files/bilmuh/personel/ogretim_uyeleri/levent_toker.jpg"
+        },{
+          "name": "Aybars UĞUR",
+          "tel": "0232 311 53 22",
+          "imageUrl":"http://bilmuh.ege.edu.tr/sites/default/files/bilmuh/personel/ogretim_uyeleri/aybars_ugur.jpg"
+        }
+      ]
+}
